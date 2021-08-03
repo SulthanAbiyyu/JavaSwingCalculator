@@ -259,6 +259,7 @@ public class calculatorUI {
         a0Button.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
+
                 if(operator == ""){
                     i--;
                     num[0]=num[0]*10+0;
