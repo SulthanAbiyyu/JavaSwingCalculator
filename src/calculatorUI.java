@@ -269,9 +269,6 @@ public class calculatorUI {
                     screenNum.setText(num[0]+ operator + num[1]);
                 }else if(num[1]==0){
 
-//                    num[1] = 0;
-//                    screenNum.setText(num[0]+ operator + num[1]);
-//                    i++;
                 }else{
                     num[i]=0;
                     screenNum.setText("9");
@@ -358,4 +355,3 @@ public class calculatorUI {
         frame.setVisible(true);
     }
 }
-//2215+08
