@@ -255,7 +255,7 @@ public class calculatorUI {
             }
         });
 
-        // 0 -> kedua
+        // 0
         a0Button.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
